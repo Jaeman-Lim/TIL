@@ -1,2 +1,2 @@
-# TIL
-Today I Learned
+# README
+2022-08-01 ~ ing
